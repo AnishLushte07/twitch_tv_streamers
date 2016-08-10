@@ -1,0 +1,40 @@
+body{
+	background-size: cover;
+	background-color: #000;
+	color: #FFF;
+	font-family: 'Lobster Two', cursive;
+	word-spacing: 2px;
+}
+
+.header h1{
+	font-size: 50px;
+}
+
+img{
+	width : 100px;
+	height: 98px;
+	border: 2px white solid;
+	border-radius: 50%;
+}
+
+.list{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.line{
+	margin-top: 20px;
+	font-size: 25px;
+}
+
+.name,.status{
+	font-size: 15px;
+	padding-top: 35px;
+}
+
+a{
+	color :#00ccff;
+}
+a:hover{
+	color: #00b8e6;
+}
